@@ -44,7 +44,7 @@ Dependencies
             <th>Package</th>
         </tr>
         <tr>
-            <td><a href="https://python-pillow.org/">Pillow</a></td>
+            <td><a href="https://pypi.org/project/pillow/">Pillow</a></td>
         </tr>
         <tr>
             <td><a href="https://opencv.org/">OpenCV</a></td>
